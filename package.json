@@ -1,0 +1,14 @@
+{
+  "name": "barca_tr",
+  "version": "1.0.0",
+  "description": "Dashboard showing the number of trains per day between Barcelona and Paris",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "starov-alex",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
